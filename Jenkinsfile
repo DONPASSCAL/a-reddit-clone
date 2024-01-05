@@ -110,6 +110,8 @@ pipeline{
                    "URL: ${env.BUILD_URL}<br/>",
                to: 'donpasscal@gmail.com',                              
                attachmentsPattern: 'trivyfs.txt,trivyimage.txt'
-        }
+       }
      }
     
+}
+}
