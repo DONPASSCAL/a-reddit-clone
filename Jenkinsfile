@@ -111,7 +111,6 @@ pipeline{
                to: 'donpasscal@gmail.com',                              
                attachmentsPattern: 'trivyfs.txt,trivyimage.txt'
        }
-     }
-    
+     } 
 }
 }
